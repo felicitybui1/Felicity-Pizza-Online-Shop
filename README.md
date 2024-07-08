@@ -1,6 +1,6 @@
 # Felicity Pizza Online Shop
 
-This is my first ever project, created in 2018, where I built a web application for ordering pizza online for my own pizza shop.
+This is my first ever project, created in 2019, where I built a web application for ordering pizza online for my own pizza shop.
 
 ## Project Objective
 
@@ -30,11 +30,10 @@ On the Create Order page, users will find customer and order forms. Once a custo
 ![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/529b87b6-9082-4011-9169-272e89af2a71)
 ![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/760c46e2-2e02-4ee3-8486-a58a2f605854)
 ![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/bc371f09-b6b3-4d97-89a6-fe82cfbc6832)
-![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/4b1e6d14-76e3-4392-9637-5686b1e87854)
-![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/4667b9d4-b12a-4795-b883-4312d009ba2a)
-![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/08b8bae9-bdbc-46ef-9794-e4c1be0dcdb1)
-![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/f4c6469c-acaf-42cb-a0d1-9b59d4a19e40)
 ![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/3c2836ed-edca-4771-a128-ede754c81718)
+![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/a86ac7bb-7f69-4438-91b5-b0a87fc5d670)
+![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/27ed8343-5273-4b67-8f5c-5dd9a2bd1b29)
+![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/70fb371e-4138-4ab7-b32b-3202fd0cbe32)
 ![image](https://github.com/felicitybui1/Felicity-Pizza-Online-Shop/assets/168895497/f484448f-70d3-4688-97ea-0877b9542ecb)
 
 
